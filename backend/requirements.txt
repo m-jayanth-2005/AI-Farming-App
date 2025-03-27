@@ -5,4 +5,7 @@ joblib
 numpy
 scikit-learn
 tensorflow
-python-multipart  
+python-multipart
+requests
+Pillow
+python-dotenv
