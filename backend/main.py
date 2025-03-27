@@ -1,5 +1,3 @@
-
-
 from fastapi import FastAPI, Request, UploadFile, File, Query, HTTPException, Depends, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
